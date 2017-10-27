@@ -9,7 +9,7 @@ def batch_badge_creator(names)
 
   names.each do |name|
     greetings[counter] = "Hello, my name is #{name}."
-    coutner += 1
+    counter += 1
   end
 
   return greetings
