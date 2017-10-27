@@ -24,5 +24,5 @@ def assign_rooms(names)
     counter += 1
   end
 
-  return greetings
+  return rooms
 end
